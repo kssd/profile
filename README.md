@@ -2,7 +2,7 @@
 ```
 Twitter: @kunwarSangram 
 Email  : kunwar.sangram@gmail.com
-Mobile : 8095590501
+Mobile : XXXXXXXXXX
 ```
 ___
 ####Education (Academics) 
