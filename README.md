@@ -1,20 +1,17 @@
-### Kunwar Sangram Singh
-```
-Twitter: @kunwarSangram 
-Email  : kunwar.sangram@gmail.com
-Mobile : XXXXXXXXXX
-```
-___
-####Education (Academics) 
-**B.Tech Electronics & Telecommunication Engineering**.
-Dehradun Institute of Technology, Dehradun
-Uttar Pradesh Technical University (a.k.a UPTU)
+# Kunwar Sangram Singh  
+> Twitter: @kunwarSangram  
+> Email  : kunwar.sangram@gmail.com   
+> Mobile : XXXXXXXXXX 
 
-####Professional Description
+### Education (Academics)  
+**B.Tech Electronics & Telecommunication Engineering**  
+Dehradun Institute of Technology, Dehradun  
+Uttar Pradesh Technical University (a.k.a UPTU)  
 
+### Professional Description  
 **Java Professional**, Experienced in functional, aspect, object and result oriented software development with expertise in Java and Extreme Programming (XP) paradigms on waterfall/agile guidelines. Demonstrated ability to acquire technical knowledge/skills rapidly and applying them to achieve use cases, optimal to both verticals and horizontals of the solution. Keen problem solver, believer and a confident professional. Effective communication skills and a team player.
 
-####Technical Expertise
+### Technical Expertise
  + Languages
     - Java (JSE & JEE), Scala, JavaScript, Python, Perl, Shell(sed & awk), Ruby, PL/SQL, C++,XML, XSLT 
  + Frameworks
@@ -30,19 +27,19 @@ Uttar Pradesh Technical University (a.k.a UPTU)
  + Protocols 
     - TCP/IP, UDP/IP, HTTP, SOAP, SAAJ , SIP, SIMPLE, XMPP, LDAP, mail, JMS, AAA (Radius, Diameter) 
 
-####Professional Experience
+## Professional Experience
 
-Senior Software Engineer (Senior Software Engineer)
-@[Zscaler][4], Bangalore, Karnataka :: October 2013 – Present
++ Senior Software Engineer (Developer + Lead)  
+  @[Zscaler][4], Bangalore, Karnataka :: October 2013 – Present  
 
- Zscaler, cloud based security provider for Access and Threat protection. Classifies threat and associates a rating identifying threat history and origin. Maintains Global threat (virus/malware) catalogue available for third party integration. There are many more innovative methods used for providing robust cloud security solution and analytics. 
+    **Zscaler**, cloud based security provider for Access and Threat protection. Classifies threat and associates a rating identifying threat history and origin. Maintains Global threat (virus/malware) catalogue available for third party integration. There are many more innovative methods used for providing robust cloud security solution and analytics. 
  **Role** : API enable-ment using protected and scalable Rest APIS, exposing core platform and infrastructure management. Under name of Zmanage, Operations, Admin and Behaviour Analysis cloud aware applications provides API Facade for comprehensive management and reporting capabilities. Technologies primarily involves Apache CXF, Jersy, Tomcat, Java 7, Custom Protocol adaptors for custom protocol stack (generated via protocol grammar, NIO and Netty for message communication (Developed and protocol stack). 
  Implemented Protocol stack : waiting for 100% acceptance 
 
-Senior Software Engineer (Senior Software Engineer)
-@[Apigee][1], Bangalore, Karnataka :: September 2011 – October 2013
++ Senior Software Engineer (Developer + Design)
+  @[Apigee][1], Bangalore, Karnataka :: September 2011 – October 2013
 
-Apigee, PA based startup earlier known as Sonoa Systems is a Middleware Solution (SAAS) and Software Product provider. Apigee leads market, by providing customer with strategy and products for their enterprise to reach Million of users as successful Api providers.
+  **Apigee**, PA based startup earlier known as Sonoa Systems is a Middleware Solution (SAAS) and Software Product provider. Apigee leads market, by providing customer with strategy and products for their enterprise to reach Million of users as successful Api providers.
     - Primary components : 
         Servicenet (Gateway), Analytics, Key Manager Subsystem, Developer Connect. Apigee Enterprise (Hybrid Version of Legacy product components and Hadoop Project Components : Released in August '12) 
     - Primary Responsibilities 
@@ -58,8 +55,8 @@ Apigee, PA based startup earlier known as Sonoa Systems is a Middleware Solution
     ** Role required Advanced application of MapReduce, Distributed Programming and Execution Management (Apache Zookeeper), JMS (Apache Qupid),  NoSQL(Apache Cassandra), Functional programming, Java, Scala, Micro Kernel based platform development, Puppet, Mysql, Postgres, Play (Web framework), Java NIO and Socket programming, Scala, Ruby, perl, python, AWS SDK, Jmeter, XML, Linux, MacOS, XEN, Vmware & VirtualBox, Amazon EC2 etc 
 
 
-Senior Software Engineer (Developer) T3 
-@[Hughes Systique Corporation][2], Gurgaon, Haryana :: July 2010 – September 2011
++ Senior Software Engineer (Developer) T3 
+  @[Hughes Systique Corporation][2], Gurgaon, Haryana :: July 2010 – September 2011
     Project Details:
   - PolkomTel IN/NGIN SDP 
     PolkomTel, is intended to migrate the IN and NGIN services which are already in use on Nokia’s mCreate platform to JAIN SLEE servers. As Nokia Siemens best understands the requirement of the PolkomTel. NSN took the role of migrating to the JAIN SLEE servers and is implementing its SDP and thus choose OpenCloud    to act as SCP. There are many services which are categorized into UAN and NGIN services whereas all the services will be using some common modules which shall be deployed as SBBs. The clustered JAIN SLEE servers will work against the IMDB to get the subscription details and Timesten was chosen as the IMDB which gets its data synchronized with the Oracle database. The project also includes a provisioning layer (JEE) apart from the above Telco layer which takes the responsibilities of provision the subscribers for all the services.
@@ -72,8 +69,8 @@ Senior Software Engineer (Developer) T3
 
     ** OCCAS (aka Weblogic), Java, Ruby, perl, mysql, JSR 116, JSR 289, Sipservlets, EHcache, Distributed queues and topics (jms), maven, springs, etc.
 
-Member Technical Staff
-@[Agnity India][3] (Formerly Baypackets), Noida, Delhi NCR :: July 2008 – July 2010
++ Member Technical Staff
+  @[Agnity India][3] (Formerly Baypackets), Noida, Delhi NCR :: July 2008 – July 2010
     ACONYX/IMX/SAS Prepaid 
     The ACONYX Prepaid application is VOIP-based solution that offers a comprehensive feature set to allow
     Service Providers the ability to quickly deploy a complete prepaid service on both wireline and wireless
