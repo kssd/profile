@@ -17,43 +17,45 @@ Experienced in functional and object oriented software design/development. Demon
     - EJB 3.0, Springs (3.0), Hibernate, Apache-CXF, Java-RS & WS, JainSlee, JCF, JMS, JMX, JCS, JTA, JPA, Junit, JSR 116,289,94,315,154, J-NIO, JBoss-Netty, AspectJ, RESTful WS, SOAP-WS (Over HTTP), OSGI, Play Framework
  + IDE/Tools/Servers
     - Intellij IDEA, Eclipse, Eclim, Jdeveloper, SVN, GIT, ClearCase, Apache Maven, Jenkins, OpenCloud Rhino Platform, Weblogic, Apache Webserver, Tomcat, Jboss, Zookeeper, VMWare, VirtualBox, JProfiler, MAT, CI Jenkins, CI Hudson
- + Operating System/Platforms 
+ + Operating System/Platforms
     - Linux (Centos/Redhat/Ubuntu/debian), FreeBSD
- + Database 
+ + Database
     - Oracle 9i/10g/11g, Mysql, Posgresql, Cassandra, Apache hbase, Apache Derby, Oracle Timesten IMDB, MongoDB, Neo4J
  + Cloud Iaas/Paas
     - Amazon Elastic Cloud (aka. Amazon EC2)
- + Protocols 
-    - TCP/IP, UDP/IP, HTTP, SOAP, SAAJ , SIP, SIMPLE, XMPP, LDAP, mail, JMS, AAA (Radius, Diameter) 
+ + Protocols
+    - TCP/IP, UDP/IP, HTTP, SOAP, SAAJ , SIP, SIMPLE, XMPP, LDAP, mail, JMS, AAA (Radius, Diameter)
 
 ## Professional Experience
 
 + Senior Software Engineer (Individual Contributor)  
   @[Zscaler][4], Bangalore, Karnataka :: October 2013 – Present  
 
-    **Zscaler**, cloud based security provider for Access and Threat protection. Classifies threat and associates a rating identifying threat history and origin. Maintains Global threat (virus/malware) catalogue available for third party integration. There are many more innovative methods used for providing robust cloud security solution and analytics.   
- **Role** : API enable-ment using protected and scalable Rest APIS, exposing core platform and infrastructure management. Under name of Zmanage, Operations, Admin and Behaviour Analysis cloud aware applications provides API Facade for comprehensive management and reporting capabilities. Technologies primarily involves Apache CXF, Jersy, Tomcat, Java 7, Custom Protocol adaptors for custom protocol stack (generated via protocol grammar, NIO and Netty for message communication (Developed and protocol stack).   
- Implemented Protocol stack : waiting for 100% acceptance.  
+    **Zscaler**, cloud based security provider for Access and Threat protection. Classifies threat and associates a rating identifying threat history and origin. Maintains Global threat (virus/malware) catalogue available for third party integration. There are many more innovative methods used for providing robust cloud security solution and analytics.  
 
-+ Senior Software Engineer (Developer + Design + Support)  
+    **Role** : API enablement using protected and scalable Rest APIS, exposing core platform and infrastructure management. Under name of Zmanage, Operations, Admin and Behaviour Analysis cloud aware applications provides API Facade for comprehensive management and reporting capabilities. Technologies primarily involves Apache CXF, Jersey, Tomcat, Java 8, Custom Protocol adaptors for custom protocol stack (generated via protocol grammar, NIO and Netty for message communication (Developed and protocol stack).   
+    Implemented Protocol stack : waiting for 100% acceptance.  
+
++ Senior Software Engineer (Developer + Design + Support)    
   @[Apigee][1], Bangalore, Karnataka :: September 2011 – October 2013    
 
-  **Apigee**, PA based startup earlier known as Sonoa Systems is a Middleware Solution (SAAS) and Software Product provider. Apigee leads market, by providing customer with strategy and products for their enterprise to reach Million of users as successful Api providers.  
+    **Apigee**, PA based startup earlier known as Sonoa Systems is a Middleware Solution (SAAS) and Software Product provider. Apigee leads market, by providing customer with strategy and products for their enterprise to reach Million of users as successful Api providers.
+
     - Primary components :   
         Servicenet (Gateway), Analytics, Key Manager Subsystem, Developer Connect. Apigee Enterprise (Hybrid Version of Legacy product components and Hadoop Project Components : Released in August '12)  
     - Primary Responsibilities  
-    1. Design and develop product road map Items.
-    2. Identify and improve implemented components or refractor design/implementations as part of continuous product evolution and incorporating learnt lessons.  
-    3. Product Maintenance :
-        Identify, Develop, Test and deliver product patches on issues reported internally or by the customer.
-    4. Feature Request :
-        Technically defining and developing Features requested either by pre-sales team, Business analyst, Product Roadmap Items or by customer themselves.  
-    
+        1. Design and develop product road map Items.
+        2. Identify and improve implemented components or refractor design/implementations as part of continuous product evolution and incorporating learnt lessons.  
+        3. Product Maintenance :
+            Identify, Develop, Test and deliver product patches on issues reported internally or by the customer.
+        4. Feature Request :
+            Technically defining and developing Features requested either by pre-sales team, customers and support.
+
     Role involves actively involving with Customer Success team (aka Solution Architects), Apigee Business Strategy, Api Evangelist through Apigee Free online services, Customers and an awesome Technical Gurus.   
 
-    ** Role required Advanced application of MapReduce, Distributed Programming and Execution Management (Apache Zookeeper), JMS (Apache Qupid),  NoSQL(Apache Cassandra), Functional programming, Java, Scala, Micro Kernel based platform development, Puppet, Mysql, Postgres, Play (Web framework), Java NIO and Socket programming, Scala, Ruby, perl, python, AWS SDK, Jmeter, XML, Linux, MacOS, XEN, Vmware & VirtualBox, Amazon EC2 etc.  
+    **Role** required Advanced application of MapReduce, Distributed Programming and Execution Management (Apache Zookeeper), JMS (Apache Qupid),  NoSQL(Apache Cassandra), Functional programming, Java, Scala, Micro Kernel based platform development, Puppet, Mysql, Postgres, Play (Web framework), Java NIO and Socket programming, Scala, Ruby, perl, python, AWS SDK, Jmeter, XML, Linux, MacOS, XEN, Vmware & VirtualBox, Amazon EC2 etc.  
 
-+ Senior Software Engineer (Developer) T3   
++ Senior Software Engineer T3 (Developer)     
   @[Hughes Systique Corporation][2], Gurgaon, Haryana :: July 2010 – September 2011  
     Project Details  :
   - PolkomTel IN/NGIN SDP   
@@ -67,10 +69,10 @@ Experienced in functional and object oriented software design/development. Demon
 
     *OCCAS (aka Weblogic), Java, Ruby, perl, mysql, JSR 116, JSR 289, Sipservlets, EHcache, Distributed queues and topics (jms), maven, springs, etc*.
 
-+ Member Technical Staff  
++ Member Technical Staff (Developer)  
   @[Agnity India][3] (Formerly Baypackets), Noida, Delhi NCR :: July 2008 – July 2010   
 
-    `ACONYX/IMX/SAS Prepaid` 
+    `ACONYX/IMX/SAS Prepaid`
     The ACONYX Prepaid application is VOIP-based solution that offers a comprehensive feature set to allow Service Providers the ability to quickly deploy a complete prepaid service on both wireline and wireless networks. Played key role in all the major areas:
     - Real-time national and international call rating.  
 
@@ -81,7 +83,7 @@ Experienced in functional and object oriented software design/development. Demon
 
     Role:  
     Integrated Charging Engine with rating. Introduced transient charging model to overcome paradigms mismatch and provide dynamic charging facility for multiple concurrent session on the same account.
-    - Branded announcements with a customized Web portal. 
+    - Branded announcements with a customized Web portal.
 
     Role:  
     Designed and Lead the implementation of multiple language and currency support for the media server using Adapter pattern.
@@ -99,7 +101,7 @@ Experienced in functional and object oriented software design/development. Demon
     Role:  
     - Played major role in design and implementation of Checkpointing and session recovering strategy for Service.
     - Added Active DataGaurd support in Proprietary DBAccessService.
-    RFP Analysis and development of New features as product verticals. Features Designed and implemented Voucher, Bonus, Grace supports, Favorites support, Toll Free/Toll Quality, Promotions etc. Actively,
+    RFP Analysis and development of New features as product verticals. Features Designed and implemented Voucher, Bonus, Grace supports, Favorites support, Toll Free/Toll Quality, Promotions etc.
 
 ---
 #####References
