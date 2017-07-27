@@ -1,25 +1,24 @@
 # Kunwar Sangram Singh  
 > Twitter: @kunwarSangram  
 > Email  : kunwar.sangram@gmail.com   
-> Mobile : XXXXXXXXXX 
 
 ### Education (Academics)  
 **B.Tech Electronics & Telecommunication Engineering**  
 Dehradun Institute of Technology, Dehradun  
-Uttar Pradesh Technical University (a.k.a UPTU)  
+Uttar Pradesh Technical University (UPTU)  
 
-### Professional Description  
-**Java Professional**, Experienced in functional, aspect, object and result oriented software development with expertise in Java and Extreme Programming (XP) paradigms on waterfall/agile guidelines. Demonstrated ability to acquire technical knowledge/skills rapidly and applying them to achieve use cases, optimal to both verticals and horizontals of the solution. Keen problem solver, believer and a confident professional. Effective communication skills and a team player.
+### Professional Summary  
+Experienced in functional and object oriented software design/development. Demonstrated ability to acquire technical knowledge/skills rapidly and applying them to achieve use cases, optimal to both verticals and horizontals of the solution. Keen problem solver, believer and a confident professional.
 
 ### Technical Expertise
  + Languages
-    - Java (JSE & JEE), Scala, JavaScript, Python, Perl, Shell(sed & awk), Ruby, PL/SQL, C++,XML, XSLT 
+    - Java (JSE & JEE), Scala, JavaScript, Python, Shell(sed & awk), Ruby, C/C++
  + Frameworks
-    - EJB 3.0, Springs (3.0), Hibernate, Apache-CXF, Java-RS & WS, JainSlee, JCF, JMS, JMX, JCS, JTA, JPA, Junit, JSR 116,289,94,315,154, J-NIO, JBoss-Netty, AspectJ, Mockito, Apache hadoop, Apache Hive, Apache Zookeper, Apache HDFS (Basically Apache Hadoop Umbrella), RESTful WS, SAAJ, SOAP-WS (Over HTTP), OSGI, Play Framework
- + IDE/Tools
+    - EJB 3.0, Springs (3.0), Hibernate, Apache-CXF, Java-RS & WS, JainSlee, JCF, JMS, JMX, JCS, JTA, JPA, Junit, JSR 116,289,94,315,154, J-NIO, JBoss-Netty, AspectJ, RESTful WS, SOAP-WS (Over HTTP), OSGI, Play Framework
+ + IDE/Tools/Servers
     - Intellij IDEA, Eclipse, Eclim, Jdeveloper, SVN, GIT, ClearCase, Apache Maven, Jenkins, OpenCloud Rhino Platform, Weblogic, Apache Webserver, Tomcat, Jboss, Zookeeper, VMWare, VirtualBox, JProfiler, MAT, CI Jenkins, CI Hudson
  + Operating System/Platforms 
-    - Windows, Linux (Centos/Redhat/Ubuntu/debian), Mac OS X, Sun Solaris, FreeBSD 8.4 
+    - Linux (Centos/Redhat/Ubuntu/debian), FreeBSD
  + Database 
     - Oracle 9i/10g/11g, Mysql, Posgresql, Cassandra, Apache hbase, Apache Derby, Oracle Timesten IMDB, MongoDB, Neo4J
  + Cloud Iaas/Paas
@@ -29,14 +28,14 @@ Uttar Pradesh Technical University (a.k.a UPTU)
 
 ## Professional Experience
 
-+ Senior Software Engineer (Developer + Lead)  
++ Senior Software Engineer (Individual Contributor)  
   @[Zscaler][4], Bangalore, Karnataka :: October 2013 – Present  
 
     **Zscaler**, cloud based security provider for Access and Threat protection. Classifies threat and associates a rating identifying threat history and origin. Maintains Global threat (virus/malware) catalogue available for third party integration. There are many more innovative methods used for providing robust cloud security solution and analytics.   
  **Role** : API enable-ment using protected and scalable Rest APIS, exposing core platform and infrastructure management. Under name of Zmanage, Operations, Admin and Behaviour Analysis cloud aware applications provides API Facade for comprehensive management and reporting capabilities. Technologies primarily involves Apache CXF, Jersy, Tomcat, Java 7, Custom Protocol adaptors for custom protocol stack (generated via protocol grammar, NIO and Netty for message communication (Developed and protocol stack).   
  Implemented Protocol stack : waiting for 100% acceptance.  
 
-+ Senior Software Engineer (Developer + Design)  
++ Senior Software Engineer (Developer + Design + Support)  
   @[Apigee][1], Bangalore, Karnataka :: September 2011 – October 2013    
 
   **Apigee**, PA based startup earlier known as Sonoa Systems is a Middleware Solution (SAAS) and Software Product provider. Apigee leads market, by providing customer with strategy and products for their enterprise to reach Million of users as successful Api providers.  
@@ -53,7 +52,6 @@ Uttar Pradesh Technical University (a.k.a UPTU)
     Role involves actively involving with Customer Success team (aka Solution Architects), Apigee Business Strategy, Api Evangelist through Apigee Free online services, Customers and an awesome Technical Gurus.   
 
     ** Role required Advanced application of MapReduce, Distributed Programming and Execution Management (Apache Zookeeper), JMS (Apache Qupid),  NoSQL(Apache Cassandra), Functional programming, Java, Scala, Micro Kernel based platform development, Puppet, Mysql, Postgres, Play (Web framework), Java NIO and Socket programming, Scala, Ruby, perl, python, AWS SDK, Jmeter, XML, Linux, MacOS, XEN, Vmware & VirtualBox, Amazon EC2 etc.  
-
 
 + Senior Software Engineer (Developer) T3   
   @[Hughes Systique Corporation][2], Gurgaon, Haryana :: July 2010 – September 2011  
@@ -102,11 +100,6 @@ Uttar Pradesh Technical University (a.k.a UPTU)
     - Played major role in design and implementation of Checkpointing and session recovering strategy for Service.
     - Added Active DataGaurd support in Proprietary DBAccessService.
     RFP Analysis and development of New features as product verticals. Features Designed and implemented Voucher, Bonus, Grace supports, Favorites support, Toll Free/Toll Quality, Promotions etc. Actively,
-
-####Achievements 
-    - Employee of the Month                          September - October  2009      
-    - Instant Appreciation Award                     January   - February 2011      
-    - Company Recognition and appreciation for innovative approach and productivity.
 
 ---
 #####References
